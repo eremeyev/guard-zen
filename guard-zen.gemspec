@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "guard/guard-zen/version"
+require "guard/zen/version"
 
 Gem::Specification.new do |s|
   s.name        = "guard-zen"
-  s.version     = Guard::GuardZen::VERSION
+  s.version     = Guard::Zen::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Andrey Eremeev"]
   s.email       = ["andrey.eremeyev@gmail.com"]
