@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Andrey Eremeev"]
   s.email       = ["andrey.eremeyev@gmail.com"]
-  s.homepage    = "iscra.co.uk"
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://iscra.co.uk"
+  s.summary     = "guard gem for koans"
+  s.description = "gaurd gem for koans"
 
   s.rubyforge_project = "guard-zen"
 
