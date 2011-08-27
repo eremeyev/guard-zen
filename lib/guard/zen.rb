@@ -41,7 +41,7 @@ module Guard
 
     # Called on file(s) modifications
     def run_on_change(paths)
-      true
+      system 'ruby path_to_enlightenment.rb'
     end
 
   end

@@ -1,6 +1,5 @@
 require 'guard/guard'
 
 guard 'zen' do
-  watch(%r{^*.\.rb$}) { "ruby path_to_enlightenment.rb" }
-#   watch(%r{^spec/.+_spec\.rb$})
+  watch(%r{^*.\.rb$})
 end
