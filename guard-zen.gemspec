@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["andrey.eremeyev@gmail.com"]
   s.homepage    = "http://iscra.co.uk"
   s.summary     = "guard gem for koans"
-  s.description = "gaurd gem for koans"
+  s.description = "guard gem for koans"
 
   s.rubyforge_project = "guard-zen"
 
