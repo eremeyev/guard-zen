@@ -40,10 +40,6 @@ end
 
 Please read [Guard doc](https://github.com/guard/guard#readme) for more information about the Guardfile DSL.
 
-Options
--------
-
-
 Development
 -----------
 
