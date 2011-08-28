@@ -32,8 +32,6 @@ Guardfile
 
 Zen guard can be use to resolv koans from [Ruby Koans](http://rubykoans.com/)
 
-### Standard RubyGem project
-
 ``` ruby
 guard 'zen' do
   watch(%r{^*.\.rb$})
